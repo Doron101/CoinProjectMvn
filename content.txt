@@ -1,0 +1,2 @@
+ Convert from 35.2 ILS to 10.0 USD. 
+Convert from 10.0 USD to 35.199999999999996 ILS. 
